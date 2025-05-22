@@ -51,5 +51,23 @@
         li {
             color: var(--accent-blue);
         }
+
+.destino_3 {
+    ul {
+        li:nth-of-tyoe(1){
+            collor: var(--accent-purple);
+        }
+        li:nth-of-type(2){
+            collor: var(--accent-pink);
+        }
+
+        li:nth-of-type(3) {
+            collor: var(--accent-orange);
+        }
+    }
+}
+    }
+    footer {
+        text-align: center;
     }
 }
